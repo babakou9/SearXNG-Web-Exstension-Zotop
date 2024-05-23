@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
   "name": "SearXNG — Zotop",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "author": "Erghel",
   "default_locale": "fr",
   "description": "__MSG_extensionDescription__",
   "icons": {
-    "48": "searxng48.webp"
+    "48": "zaclys_logo_48.png"
   },
   "browser_action": {
     "default_title": "SearXNG"
@@ -21,7 +21,7 @@
       "name": "SearXNG",
       "keyword": "@searxng, @searx, @sx",
       "search_url": "https://zotop.fr/search?q={searchTerms}",
-      "favicon_url": "searxng128.webp",
+      "favicon_url": "zaclys_logo_128.png",
       "suggest_url": "https://zotop.fr/autocompleter?q={searchTerms}",
       "is_default": true
     }
