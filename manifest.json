@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "SearXNG — Zotop",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "author": "Erghel",
   "default_locale": "fr",
   "description": "__MSG_extensionDescription__",
@@ -18,7 +18,7 @@
   },
   "chrome_settings_overrides": {
     "search_provider": {
-      "name": "SearXNG",
+      "name": "Zotop",
       "keyword": "@searxng, @searx, @sx",
       "search_url": "https://zotop.fr/search?q={searchTerms}",
       "favicon_url": "zaclys_logo_128.png",
