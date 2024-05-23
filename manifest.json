@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "SearXNG — Privacy Search Engine",
-  "version": "1.5",
+  "name": "SearXNG — Zotop",
+  "version": "1.5.1",
   "author": "Erghel",
   "default_locale": "fr",
   "description": "__MSG_extensionDescription__",
